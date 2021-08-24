@@ -4,6 +4,7 @@
 **Kartik1411/Kartik1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Node JS, React JS and Redux 
 - 🌱 I’m currently learning Redux
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kartikvarshney1411@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <br/><br/>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik1411&theme=tokyonight)<br/>-->

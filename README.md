@@ -9,11 +9,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Node JS, React JS and Redux 
 - 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate on Front end technologies
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about
+- 🤔 Always welcome for new ideas
+<!-- - 💬 Ask me about -->
 - 📫 How to reach me: kartikvarshney1411@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
+
 
 
 <br/><br/>
